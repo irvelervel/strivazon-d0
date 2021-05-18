@@ -45,7 +45,7 @@ class BookDetail extends Component {
                   {this.state.book.price}
                 </p>
                 <Button color="primary" onClick={() => {}}>
-                  BUY
+                  ADD TO CART
                 </Button>
               </Col>
             </Row>
