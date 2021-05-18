@@ -40,7 +40,6 @@ class BookStore extends Component {
         <Col md={8}>
           <BookDetail
             bookSelected={this.state.bookSelected}
-            books={this.state.books}
           />
         </Col>
       </Row>
